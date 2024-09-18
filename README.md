@@ -3,7 +3,7 @@
 ## Installation des Projekts
 
 - **Klonen des Repositories**
-  - Auf Github im Repositorie, das du klonen willst auf die Schaltfläche **"Fork"** klicken.
+  - Auf Github im Repository, das du klonen willst auf die Schaltfläche **"Fork"** klicken.
   - `git clone git@github.com:AlexaLovegood/docker-nodejs-sample-todo-list.git` um es auf den Rechner zu klonen
 - **Installation der notwendigen Pakete**
   - Windows Subsystem for Linux installieren (WSL)
